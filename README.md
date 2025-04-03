@@ -127,16 +127,10 @@ This project allows you to perform various geometric calculations and operations
 ## Contributing 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make to this project are **greatly appreciated**.
 
-If you would like to contribute, please follow these steps:
-
-1. **Fork the Repository**  
-   Click the "Fork" button at the top of the repository page to create your own copy of the project.
-
-2. **Clone Your Fork**  
-   Clone your forked repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-
+If you would like to contribute, clone this repository to your local machine:
+```bash
+https://github.com/cc231008/3D-Geometric-Objects.git
+```
 ## License 
 No license is used.
 
